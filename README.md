@@ -1,5 +1,4 @@
 # PY-assignments
-Practice
 
 
 
